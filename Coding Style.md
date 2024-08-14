@@ -1,5 +1,7 @@
 # Coding Style (Version 1.0)
 
+Notion: https://perpetual-spectacles-12d.notion.site/Coding-Style-Version-1-0-e99a0c3cdc5b4a87abd88a4a8834c9f8?pvs=4
+
 ## 1. Function Naming Style & Briefing
 
 - Function names should be intuitive and straightforward, clearly describing the purpose of the function.
